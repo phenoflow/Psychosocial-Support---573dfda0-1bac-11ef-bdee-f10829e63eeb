@@ -2,7 +2,7 @@
 
 import sys, csv, re
 
-codes = [{"code":"13Y8.00","system":"readv2"}];
+codes = [{"code":"Z191100","system":"readv2"},{"code":"8CAv.00","system":"readv2"},{"code":"13Y8.00","system":"readv2"},{"code":"Z191211","system":"readv2"}];
 REQUIRED_CODES = 1;
 with open(sys.argv[1], 'r') as file_in, open('psychosocial-support-potential-cases.csv', 'w', newline='') as file_out:
     csv_reader = csv.DictReader(file_in)
