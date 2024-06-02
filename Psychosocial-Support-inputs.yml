@@ -3,16 +3,31 @@ inputModule1:
   path: js/read-potential-cases-i2b2.js
 inputModule2:
   class: File
-  path: python/psychosocial-support-valcohol---primary.py
+  path: python/psychosocial-support-enhanced---primary.py
 inputModule3:
   class: File
-  path: python/psychosocial-support-alcohol---primary.py
+  path: python/psychosocial-support-treatment---primary.py
 inputModule4:
   class: File
-  path: python/psychosocial-support-abuse---primary.py
+  path: python/brief-psychosocial-support---primary.py
 inputModule5:
   class: File
-  path: python/psychosocial-support-counselling---primary.py
+  path: python/psychosocial-support-extended---primary.py
 inputModule6:
+  class: File
+  path: python/psychosocial-support-alcohol---primary.py
+inputModule7:
+  class: File
+  path: python/psychosocial-support-rehabilitation---primary.py
+inputModule8:
+  class: File
+  path: python/psychosocial-support-community---primary.py
+inputModule9:
+  class: File
+  path: python/psychosocial-support-abuse---primary.py
+inputModule10:
+  class: File
+  path: python/psychosocial-support-counselling---primary.py
+inputModule11:
   class: File
   path: python/output-cases.py
